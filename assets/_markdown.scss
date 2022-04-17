@@ -56,7 +56,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      opacity: 0.4;
     }
     &:visited {
       color: var(--color-visited-link);
